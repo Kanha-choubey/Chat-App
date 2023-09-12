@@ -1,4 +1,4 @@
- const chats = [
+const chats = [
   {
     isGroupChat: false,
     users: [
@@ -106,4 +106,4 @@
     },
   },
 ];
-module.exports = {chats}
+module.exports = { chats };
